@@ -1,30 +1,21 @@
 # LuauUseless
-(AI Generated README.md, for satire purposes.)
+A frontier module that excels in doing nothing, flawlessly and efficently leveraging tools given to us by programming interfaces such as Luau. It innovatively inplements a lack of implementation in a way that'll disrupt the no-op industry.
 
-The ~~worst~~ **best** library ever made for Luau.  
-It literally does <s>nothing</s> something. Use it anyway. It's super cool.  
-(Trust me bro.)
+# Features
+* A sleek, intuitive API, getting the most out of the fewest interfaces.
+* Easy to migrate, our API was based off of all our competitors, reducing friction substantially 
+* An intelligent architecture that manages the complex routing in one click
+* AI first code, LLMs.txt soon
 
-## 🚀 Features
+# Installation
+It is as simple as copy and pasting the uhh erm
 
-- 🧠 No dependencie<s>s</s>  
-- 🫥 No functions  
-- 🐌 No performance cost  
-- 🧼 No bugs
-- 🤝 No purpose  
-- ✨ Professionally vibecoded
+# License
 
-## 🔧 Installation
-
-Just copy the module into your Roblox project. Or don’t.  
-It literally won’t matter.
-
-## 📜 License
-
-This project is licensed under the **JSON License**, so like... don't be evil.
+This project is licensed under the **JSON License**.
 
 ```text
-Copyright (c) 2025 IcedLua
+Copyright (c) 2025-2026 IcedLuau
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,9 +26,3 @@ furnished to do so, subject to the following condition:
 
 The Software shall be used for Good, not Evil.
 ```
-> _"Wait, what does evil mean?"_  
-> **Not tellin ya.**
-
----
-
-**Install today. Disappoint yourself tomorrow.**
